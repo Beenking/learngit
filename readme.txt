@@ -7,4 +7,8 @@ Create a new branch is quick.
 Creating a new branch is quick and simple.
 Add a merge test.
 
+<<<<<<< Updated upstream
 Fix the bug 101
+=======
+Git stash test.
+>>>>>>> Stashed changes
